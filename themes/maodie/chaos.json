@@ -1,0 +1,11 @@
+{
+  "disappearChance": 0.1,
+  "transformChance": 0.15,
+  "disappearTiming": [
+    "onDraw",
+    "onIdle"
+  ],
+  "transformTiming": [
+    "onPlay"
+  ]
+}

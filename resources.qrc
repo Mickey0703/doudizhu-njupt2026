@@ -1,0 +1,25 @@
+<RCC>
+    <!-- BGM 音乐 (通过QRC打包) -->
+    <qresource prefix="/music">
+        <file alias="manbo.wav">resources/music/manbo.wav</file>
+        <file alias="threeManBo.wav">resources/music/threeManBo.wav</file>
+        <!-- 已移除两条含有非 ASCII 文件名的引用，避免 mingw/make 编码问题 -->
+    </qresource>
+
+    <!-- UI 小素材 -->
+    <qresource prefix="/images/ui">
+        <file alias="table_bg.png">images/Common_BG3_2x.png</file>
+    </qresource>
+    <qresource prefix="/themes">
+        <file alias="nailong/theme.json">themes/nailong/theme.json</file>
+        <file alias="nailong/card_back.png">themes/nailong/card_back.png</file>
+        <file alias="hakimi/theme.json">themes/hakimi/theme.json</file>
+        <file alias="hakimi/card_back.png">themes/hakimi/card_back.png</file>
+        <file alias="maodie/theme.json">themes/maodie/theme.json</file>
+        <file alias="maodie/card_back.png">themes/maodie/card_back.png</file>
+        <file alias="maodie/chaos.json">themes/maodie/chaos.json</file>
+    </qresource>
+    <qresource prefix="/avatars">
+        <file alias="avatar_index.json">avatars/avatar_index.json</file>
+    </qresource>
+</RCC>

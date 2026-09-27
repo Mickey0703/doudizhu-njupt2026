@@ -1,0 +1,18 @@
+{
+  "name": "nailong",
+  "displayName": "奶龙",
+  "description": "我奶龙不是龙！",
+  "robotNames": [
+    "奶龙一号",
+    "奶龙二号"
+  ],
+  "robotGender": [
+    "Man",
+    "Man"
+  ],
+  "cardBack": "card_back.png",
+  "cardFaceDir": "cards/",
+  "cardFaceSuffix": ".png",
+  "cardNaming": "{point}{suit_letter}",
+  "bgm": "sfx/bgm.mp3"
+}

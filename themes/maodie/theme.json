@@ -1,0 +1,18 @@
+{
+  "name": "maodie",
+  "displayName": "耄耋",
+  "description": "混沌领域",
+  "robotNames": [
+    "耄耋左护法",
+    "耄耋右护法"
+  ],
+  "robotGender": [
+    "Man",
+    "Woman"
+  ],
+  "cardBack": "card_back.png",
+  "cardFaceDir": "cards/",
+  "cardFaceSuffix": ".png",
+  "cardNaming": "{point}{suit_letter}",
+  "bgm": "sfx/bgm.mp3"
+}

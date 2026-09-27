@@ -1,0 +1,18 @@
+{
+  "name": "hakimi",
+  "displayName": "哈基米",
+  "description": "哈基米～",
+  "robotNames": [
+    "哈基米一号",
+    "哈基米二号"
+  ],
+  "robotGender": [
+    "Woman",
+    "Woman"
+  ],
+  "cardBack": "card_back.png",
+  "cardFaceDir": "cards/",
+  "cardFaceSuffix": ".png",
+  "cardNaming": "{point}{suit_letter}",
+  "bgm": "sfx/bgm.mp3"
+}

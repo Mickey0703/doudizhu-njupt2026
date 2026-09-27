@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tian_suo",
+    "name": "田所浩二",
+    "file": "tian_suo.png"
+  },
+  {
+    "id": "nai_long",
+    "name": "奶龙",
+    "file": "nai_long.png"
+  },
+  {
+    "id": "man_bo",
+    "name": "曼波",
+    "file": "man_bo.png"
+  },
+  {
+    "id": "dong_hai",
+    "name": "东海帝皇",
+    "file": "dong_hai_di_huang.png"
+  },
+  {
+    "id": "donk",
+    "name": "donk",
+    "file": "donk.png"
+  }
+]
